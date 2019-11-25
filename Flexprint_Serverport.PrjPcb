@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Flexprint_Serverport
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -131,122 +131,82 @@ DocumentPath=Project Outputs for Flexprint_Serverport\Design Rule Check - Flexpr
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\NC Drill\Flexprint_Serverport.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for Flexprint_Serverport\NC Drill\Flexprint_Serverport.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Gerber\Flexprint_Serverport.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GML
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\NC Drill\Flexprint_Serverport.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Flexprint_Serverport\NC Drill\Flexprint_Serverport.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.REP
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Gerber\Flexprint_Serverport.REP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Flexprint_Serverport.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\Gerber\Flexprint_Serverport.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Flexprint_Serverport\Gerber\NC Drill\Flexprint_Serverport.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument31]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Flexprint_Serverport\NC Drill\Flexprint_Serverport.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Flexprint_Serverport\Pick Place\Pick Place for Flexprint_Serverport.txt
 DItemRevisionGUID=
 
@@ -261,7 +221,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for Flexprint_Serverport
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
